@@ -1,0 +1,20 @@
+{
+  "name": "armen-deroian/pongo-api-wrapper",
+  "description": "A wrapper for the Ponjo API written in PHP. https://app.ponjo.club/",
+  "homepage": "https://app.ponjo.club/",
+
+  "version": "1.0.0",
+  "time": "",
+  "minimum-stability": "stable",
+  "type": "library",
+  "license": "GPL-3.0-or-later",
+  "authors": [
+    {
+      "name": "Armen Deroian",
+      "email": "personal@cosmic5173.com"
+    }
+  ],
+  "require": {
+    "guzzlehttp/guzzle": "7.x"
+  }
+}
